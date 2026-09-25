@@ -12,5 +12,5 @@ Các API của comments
     GET/comments (image-7.png)
     GET/comments/:id (image-8.png)
     POST/comments (image-9.png)
-    PUT/comments/:id 
-    DELETE/comments/:id 
+    PUT/comments/:id (image-10.png)
+    DELETE/comments/:id (image-11.png)
